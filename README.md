@@ -6,3 +6,6 @@ Camera version 1.3 to gather the images. Then are pusblished to a ROS network su
 Image with OpenCV, Rosserial and ROS Noetic inatalled.
 Pi Image Link: https://caledonianac-my.sharepoint.com/:f:/g/personal/pdemel200_caledonian_ac_uk/EvEb9cotwGpLpWY3g6C9TpABpliTvR43O0RFBC3G09CeKw?e=cIMWIE
 To control the robot an arduino uno is used with an L298N motor driver power froma  battery bank. The Arduino Uno has the rosserial library installed to connect with the Pi.
+
+Video Demo: https://caledonianac-my.sharepoint.com/:f:/g/personal/pdemel200_caledonian_ac_uk/EpGEJ9IFNfhOnvms_ifHKBgB0JfzM_hAtQbMBE_UnVpO0g?e=eubKbv
+
