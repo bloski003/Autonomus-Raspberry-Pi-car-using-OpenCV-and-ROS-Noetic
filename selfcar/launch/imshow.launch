@@ -1,0 +1,6 @@
+<launch>
+
+<node name="image" pkg="selfcar" type="image_publisher.py" output="screen" respawn="true"/>
+<node name="image_listener" pkg="selfcar" type="image_sub.py" output="screen" respawn="true"/>
+
+</launch>
